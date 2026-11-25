@@ -5,7 +5,7 @@
 
 Webs rápidas, accesibles y medibles. Más de 12 años construyendo para la web, 500+ páginas publicadas.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gustavobentancor.com%2Fgsoft--studio-0b0b0b?style=for-the-badge&logo=astro&logoColor=white)](https://gustavobentancor.com/gsoft-studio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gustavobentancor.com-0b0b0b?style=for-the-badge&logo=astro&logoColor=white)](https://gustavobentancor.com/)
 [![Email](https://img.shields.io/badge/Contacto-info%40gustavobentancor.com-0b0b0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@gustavobentancor.com)
 
 </div>
@@ -39,10 +39,10 @@ Webs rápidas, accesibles y medibles. Más de 12 años construyendo para la web,
 | ✅ **[tracker-habits](https://gusdv16.github.io/tracker-habits/)** | PWA de hábitos con push y sincronización. | Firebase · PWA |
 | 🎟️ **[entrada-eventos](https://github.com/gusdv16/entrada-eventos)** | Venta de entradas con QR, validación en puerta y reportes. | Astro |
 | 🛠️ **[automatizaciones-pyme](https://github.com/gusdv16/automatizaciones-pyme)** | Tres herramientas para dolores reales de una PYME. | JavaScript |
-| 🖥️ **[gsoft-studio](https://gustavobentancor.com/gsoft-studio/)** | Mi estudio: sitio bilingüe con Lighthouse 99/100/100/100. | Astro · GSAP |
+| 🖥️ **[gsoft-studio](https://gustavobentancor.com/)** | Mi estudio: sitio bilingüe con Lighthouse 99/100/100/100. | Astro · GSAP |
 
 Todo tiene demo en vivo y código abierto. Las réplicas de diseño usan marcas ficticias.
 
 ## Contacto
 
-¿Un proyecto, una vacante o una consulta? Escribime a **info@gustavobentancor.com** o pasá por el [portfolio](https://gustavobentancor.com/gsoft-studio/).
+¿Un proyecto, una vacante o una consulta? Escribime a **info@gustavobentancor.com** o pasá por el [portfolio](https://gustavobentancor.com/).
